@@ -1,6 +1,6 @@
-# ScPo UG Econometrics
+# UG Econometrics
 
-This is the git repo for the UG Econometrics book taught to 2nd year students at SciencesPo.
+This is the git repo for the UG Econometrics book taught to 2nd year students.
 
 **Slides for the Intro Course?** If you are looking for the introductory course slides, they are in the [ScPoEconometrics-Slides](https://github.com/ScPoEcon/ScPoEconometrics-Slides) repo.
 
